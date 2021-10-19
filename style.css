@@ -1,0 +1,178 @@
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #F7FAFC;
+    padding: 5% 10% 10% 10%;
+}
+
+nav {
+    position: relative;
+}
+
+.logo {
+    position: relative;
+}
+
+.text-logo {
+    position: absolute;
+    top: 5px;
+    left: 50px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.menu {
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #2d3748;
+}
+
+.mid {
+    text-align: center;
+}
+
+.mid-title {
+    font-weight: 700;
+    font-size: 48px;
+    color: #1A202C;
+    margin-top: 100px;
+}
+
+.mid-title2 {
+    font-weight: 700;
+    font-size: 48px;
+    color: #03A9F4;
+    margin: 25px 0px;
+}
+
+.mid-p {
+    font-weight: 400;
+    font-size: 24px;
+    color: #718094;
+    margin-bottom: 50px;
+}
+
+.button-mid {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    background-color: #03A9F4;
+    border-radius: 10px;
+    border-color: white;
+    padding: 20px;
+}
+
+main {
+    padding: 5% 10% 10% 10%;
+}
+
+.service {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.service-p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #718096;
+    text-align: center;
+    margin: 30px;
+}
+
+.feature1 {
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.f1 {
+    position: absolute;
+    top: 100px;
+    margin-right: 50%;
+}
+
+.feature1-img {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.f1-text {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.f1-p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #718096;
+    text-align: center;
+}
+
+.feature2 {
+    position: relative;
+    margin-top: 40%;
+}
+
+.f2 {
+    position: absolute;
+    top: 100px;
+    margin-left: 50%;
+    text-align: center;
+}
+
+.f2-text {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.f2-p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #718096;
+}
+
+.feature2-img {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.feature3 {
+    position: relative;
+    padding-top: 40%;
+}
+
+.f3 {
+    position: absolute;
+    margin-right: 50%;
+    text-align: center;
+}
+
+.f3-text {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.f3-p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #718096;
+}
+
+.feature3-img {
+    position: absolute;
+    right: 0px;
+    top: 350px;
+}
